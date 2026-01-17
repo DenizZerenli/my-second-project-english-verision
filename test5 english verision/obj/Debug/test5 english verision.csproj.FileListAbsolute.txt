@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\test5 english verision\test5 english verision\bin\Debug\test5 english verision.exe.config
+C:\Users\User\source\repos\test5 english verision\test5 english verision\bin\Debug\test5 english verision.exe
+C:\Users\User\source\repos\test5 english verision\test5 english verision\bin\Debug\test5 english verision.pdb
+C:\Users\User\source\repos\test5 english verision\test5 english verision\obj\Debug\test5 english verision.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\test5 english verision\test5 english verision\obj\Debug\test5 english verision.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\test5 english verision\test5 english verision\obj\Debug\test5 english verision.exe
+C:\Users\User\source\repos\test5 english verision\test5 english verision\obj\Debug\test5 english verision.pdb
